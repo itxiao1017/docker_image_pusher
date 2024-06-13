@@ -1,2 +1,2 @@
 tomcat:8.5.88
-nginx:1.22
+nginx:1.26
