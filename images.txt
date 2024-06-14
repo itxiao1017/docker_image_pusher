@@ -1,2 +1,4 @@
 tomcat:8.5.88
 nginx:1.26
+mysql:5.7.26
+mysql:8.0.27
