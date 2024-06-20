@@ -1,5 +1,4 @@
-tomcat:8.5.88
-nginx:1.26
-mysql:5.7.26
-mysql:8.0.27
-tomcat:9.0.54
+mysql:8.0.36
+zabbix/zabbix-server-mysql:centos-6.4.0
+zabbix/zabbix-web-nginx-mysql:centos-6.4.0
+zabbix/zabbix-java-gateway:centos-6.4.0
