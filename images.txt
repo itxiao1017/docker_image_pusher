@@ -2,4 +2,4 @@ mysql:8.0.36
 zabbix/zabbix-server-mysql:centos-6.4.0
 zabbix/zabbix-web-nginx-mysql:centos-6.4.0
 zabbix/zabbix-java-gateway:centos-6.4.0
-zabbix/zabbix-agent2:centos-6.4.0
+zabbix/zabbix-agent:centos-6.4.0
