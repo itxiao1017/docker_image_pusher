@@ -1,1 +1,1 @@
-cnych/jenkins:jnlp6
+postgres:14
