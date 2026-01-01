@@ -1,2 +1,1 @@
-nginx:1.28
-mysql:8.4.0
+cnych/jenkins:jnlp6
