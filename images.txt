@@ -1,1 +1,2 @@
-postgres:14
+sameersbn/gitlab:latest
+gitlab/gitlab-ce:latest
